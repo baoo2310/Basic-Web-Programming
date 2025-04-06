@@ -1,0 +1,10 @@
+.buton {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;    
+    margin: 20px 0;
+}
